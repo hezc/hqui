@@ -1,0 +1,14 @@
+<div class="hq-slider" @mouseover="stopPlay" @mouseleave="autoPlay">
+  <div :style="styleObject" class="hq-slider-container" @transitionend="transitionEnd">
+    <slot></slot>
+  </div>
+  <div v-if="pagination && count > 1" class="hq-slider-pagination">
+    <span v-for="idx in count" :key="idx" :class="{
+        active: idx - 1 === activeIndicator
+      }" @click="goto(idx)">
+      &nbsp;
+    </span>
+  </div>
+  <div v-if="navigation" class="hq-slider-prev" @click="prev">&lt;</div>
+  <div v-if="navigation" class="hq-slider-next" @click="next">&gt;</div>
+</div>

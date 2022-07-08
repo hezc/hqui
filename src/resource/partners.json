@@ -1,0 +1,72 @@
+[
+  {
+    "name": "vuejs",
+    "logo": "",
+    "flipLogo": true,
+    "intro": "渐进式 JavaScript 框架，易用、灵活、高效",
+    "description": [],
+    "proficiencies": ["Vue"],
+    "region": [],
+    "location": [],
+    "website": {
+      "text": "v3.cn.vuejs.org",
+      "url": "https://v3.cn.vuejs.org/"
+    },
+    "contact": "",
+    "hiring": "",
+    "platinum": true
+  },
+  {
+    "name": "layui",
+    "logo": "",
+    "flipLogo": true,
+    "intro": "开源模块化前端 UI 组件库， 基于浏览器端原生态模式，面向全层次的前后端开发者，易上手且开源免费的 Web 界面组件库",
+    "description": [],
+    "proficiencies": ["layui"],
+    "region": [],
+    "location": [],
+    "website": {
+      "text": "www.layuion.com",
+      "url": "https://www.layuion.com/"
+    },
+    "contact": "",
+    "hiring": "",
+    "platinum": true
+  },
+  {
+    "name": "jquery",
+    "logo": "",
+    "flipLogo": true,
+    "intro": "jQuery是一个快速、简洁的JavaScript框架",
+    "description": [],
+    "proficiencies": ["jquery"],
+    "region": [],
+    "location": [],
+    "website": {
+      "text": "jquery.cuishifeng.cn",
+      "url": "https://jquery.cuishifeng.cn/"
+    },
+    "contact": "",
+    "hiring": "",
+    "platinum": true
+  },
+  {
+    "name": "uniapp",
+    "logo": "",
+    "flipLogo": true,
+    "intro": "uni-app 是一个使用 Vue.js (opens new window)开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。",
+    "description": [],
+    "proficiencies": ["uniapp"],
+    "region": [],
+    "location": [],
+    "website": {
+      "text": "uniapp.dcloud.io",
+      "url": "https://uniapp.dcloud.io/"
+    },
+    "contact": "",
+    "hiring": "",
+    "platinum": true
+  }
+
+  
+]

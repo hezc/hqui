@@ -1,0 +1,7 @@
+<div style="width:540px;height:260px;margin:50px auto">
+    <HqSlider>
+        <HqSliderItem v-for="(item, index) in sliderData.bannerList" :key="index">
+            <a :href="item.Url" target="_blank"><img :src="item.Img" width="540" height="260" /></a>
+        </HqSliderItem>
+    </HqSlider>
+</div>
