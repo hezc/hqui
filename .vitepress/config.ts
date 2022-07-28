@@ -56,9 +56,90 @@ export const sidebar = {
         {
           text: 'JQ-slider',
           link: '/components/jquery/jqslider'
+        },
+        {
+          text: 'JQ-图片3D轮播效果',
+          link: '/components/jquery/imgCarousel3D'
+        },
+        {
+          text: 'JQ-焦点图+缩略图',
+          link: '/components/jquery/focusImage1'
+        },
+        {
+          text: 'JQ-图片横向切换',
+          link: '/components/jquery/imgHorizontalSwitch'
+        }
+        
+      ]
+    },
+    {
+      text: '图片预览',
+      items: [
+        {
+          text: 'JQ-手风琴效果',
+          link: '/components/jquery/accordion'
+        },
+        {
+          text: 'JQ-预览大图',
+          link: '/components/jquery/imgViewer'
+        },
+        {
+          text: 'JQ-倾斜图片切换+预览',
+          link: '/components/jquery/swiperPictureToggle'
+        },
+        {
+          text: 'JQ-晒图+预览',
+          link: '/components/jquery/imgBlueprint'
+        },
+        {
+          text: 'JQ-缩略图+预览',
+          link: '/components/jquery/imgPreview'
+        }
+        
+      ]
+    },
+    {
+      text: '活动抽奖',
+      items: [
+        {
+          text: 'JQ-转盘抽奖',
+          link: '/components/jquery/lotteryTurntable'
+        },
+        {
+          text: 'JQ-随机抽奖',
+          link: '/components/jquery/lotteryShuiji'
+        },
+        {
+          text: 'JQ-翻牌抽奖',
+          link: '/components/jquery/lotteryFanpai'
+        },
+        {
+          text: 'JQ-滚动手机号抽奖',
+          link: '/components/jquery/lotteryPhone'
+        },
+        {
+          text: 'JQ-仿双色球抽奖',
+          link: '/components/jquery/lotteryShuangseqiu'
+        },
+        {
+          text: 'JQ-仿老虎机抽奖',
+          link: '/components/jquery/lotteryLaohuji'
+        },
+        {
+          text: 'JQ-九宫格抽奖',
+          link: '/components/jquery/lotteryJiugongge'
         }
       ]
-    }
+    },
+    {
+      text: 'CSS动画',
+      items: [
+        {
+          text: 'JQ-aminate动画库',
+          link: '/components/jquery/animate'
+        }
+      ]
+    },
   ],
   '/components-m/': [
     {
@@ -76,6 +157,7 @@ export const sidebar = {
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
 
+  base: '/hqui/',
   lang: 'en-US',
   title: 'ui.cc',
   description: '前端组件库平台',
@@ -109,9 +191,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     sidebar,
 
     algolia: {
-      indexName: 'hqui',
+      indexName: 'testui',
       appId: 'AFTTBL2D4D',
-      apiKey: '75ca20256f27def46361447948ec2932',
+      apiKey: 'ed6081ccf8daa5a6c863e45a8f1bc0fc'
       // searchParameters: {
       //   facetFilters: ['version:v3']
       // }
