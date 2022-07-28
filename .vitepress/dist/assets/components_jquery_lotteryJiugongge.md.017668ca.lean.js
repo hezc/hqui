@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as l,g as a}from"./app.72b0b698.js";const p='{"title":"jquery版本的：九宫格抽奖","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/lotteryJiugongge.md"}',o={},t=[a("",4)];var e=s(o,[["render",function(s,a,p,o,e,F){return l(),n("div",null,t)}]]);export{p as __pageData,e as default};
