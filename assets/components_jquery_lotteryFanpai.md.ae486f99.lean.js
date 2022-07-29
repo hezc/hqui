@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,g as l}from"./app.711a12e1.js";const p='{"title":"jquery版本的：翻牌抽奖","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/lotteryFanpai.md"}',o={},t=[l("",4)];var D=s(o,[["render",function(s,l,p,o,D,F){return n(),a("div",null,t)}]]);export{p as __pageData,D as default};

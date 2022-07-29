@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,g as l}from"./app.8d93e710.js";const p='{"title":"jquery版本的：滚动手机号抽奖","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/lotteryPhone.md"}',o={},t=[l("",4)];var e=s(o,[["render",function(s,l,p,o,e,c){return n(),a("div",null,t)}]]);export{p as __pageData,e as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,g as l}from"./app.711a12e1.js";const p='{"title":"jquery版本的：晒图+预览","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/imgBlueprint.md"}',o={},t=[l("",4)];var F=s(o,[["render",function(s,l,p,o,F,D){return n(),a("div",null,t)}]]);export{p as __pageData,F as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,g as l}from"./app.711a12e1.js";const p='{"title":"jquery版本的：仿双色球抽奖","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/lotteryShuangseqiu.md"}',o={},t=[l("",4)];var e=s(o,[["render",function(s,l,p,o,e,F){return n(),a("div",null,t)}]]);export{p as __pageData,e as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,g as l}from"./app.8d93e710.js";const p='{"title":"jquery版本的：倾斜图片切换+预览","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/swiperPictureToggle.md"}',o={},t=[l("",4)];var e=s(o,[["render",function(s,l,p,o,e,D){return n(),a("div",null,t)}]]);export{p as __pageData,e as default};
