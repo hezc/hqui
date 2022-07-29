@@ -191,9 +191,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     sidebar,
 
     algolia: {
-      indexName: 'testui',
-      appId: 'AFTTBL2D4D',
-      apiKey: 'ed6081ccf8daa5a6c863e45a8f1bc0fc'
+      indexName: 'hquiIndex',
+      appId: 'Z9BWP6BCBB',
+      apiKey: '25a371ffa5b6fd3c22c1c3a7ea500c0f'
       // searchParameters: {
       //   facetFilters: ['version:v3']
       // }
