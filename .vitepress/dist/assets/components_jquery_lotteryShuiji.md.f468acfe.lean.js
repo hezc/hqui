@@ -1,1 +1,0 @@
-import{_ as s,c as l,o as n,g as a}from"./app.68d63501.js";const p='{"title":"jquery版本的：随机抽奖","description":"","frontmatter":{"footer":false},"headers":[],"relativePath":"components/jquery/lotteryShuiji.md"}',o={},t=[a("",4)];var F=s(o,[["render",function(s,a,p,o,F,e){return n(),l("div",null,t)}]]);export{p as __pageData,F as default};
